@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json",
+    "json:server": "json-server --watch db.json --port 301",
     "dev": "npm start --prefix front-end && npm run json:server"
   },
   "author": "",
