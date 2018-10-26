@@ -5,7 +5,7 @@ import {
 } from "./types";
 
 const fetchProduct = () => dispatch => {
-  fetch("http://localhost:3000/product")
+  fetch("http://localhost:3001/product")
     .then(Response => Response.json())
     .then(products =>
       dispatch({
