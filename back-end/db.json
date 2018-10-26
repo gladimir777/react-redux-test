@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "fidello",
+      "precio": 900
+    },
+    {
+      "id": "2",
+      "name": "nest cafe",
+      "precio": 900
+    },
+    {
+      "id": "3",
+      "name": "yogurt",
+      "precio": 900
+    },
+    {
+      "id": "4",
+      "name": "poloto",
+      "precio": 900
+    }
+  ]
+}
